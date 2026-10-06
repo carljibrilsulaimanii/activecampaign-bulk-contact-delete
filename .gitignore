@@ -1,0 +1,6 @@
+# The run logs list real contact ids from your account. Never commit them.
+ac_deleted_ids.txt
+ac_failed_ids.txt
+ac_fetched_ids.json
+__pycache__/
+*.pyc
